@@ -1,2 +1,5 @@
-score.txt
+# folders
 .vscode
+
+# files
+*.txt
