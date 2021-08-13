@@ -1,8 +1,3 @@
-# This is a program for writing lessons scores in a file that names 'score.txt'.
-# Author: MDK
-# Date: 1400/04/15 19:05
-# ------------------------
-
 print("Hello")
 print("Welcome to calculating scores program!")
 name = input("What's the student's name = ")  # This variable gets the name of student.
