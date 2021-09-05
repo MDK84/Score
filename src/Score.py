@@ -1,10 +1,10 @@
 print("Hello")
 print("Welcome to calculating scores program!")
 name = input("What's the student's name = ")  # This variable gets the name of student.
-while name == "" or name == None:  # This 'while' checks that 'name' is empty or not. If 'name' was empty, program asks the name again.
+while name == "" or name is None:  # This 'while' checks that 'name' is empty or not. If 'name' was empty, program asks the name again.
     print("\nPlease enter the name!")
     name = input("What's the student's name = ")
-    if name != "" and name != None:
+    if name != "" and name is not None:
         break
 lessonsNumber = int(input("How many lessons do you want to write their scores = "))  # Lessons number wrote here.
 with open('score.txt', 'w') as f:  # This line opens 'score.txt' for writing('w').
