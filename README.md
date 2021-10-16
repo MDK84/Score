@@ -4,8 +4,8 @@
 
 ## Special thanks to
 
-- ![picture](https://avatars.githubusercontent.com/komeilparseh?size=25)
-[mmdbalkhi](https://github.com/KomeilParseh)
+- ![picture](https://avatars.githubusercontent.com/mmdbalkhi?size=25)
+[mmdbalkhi](https://github.com/mmdbalkhi)
 
 ### This is a program for calculating scores
 
