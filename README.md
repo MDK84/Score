@@ -11,4 +11,6 @@
 
 ### This program can write scores in a file
 
+### Testing python features
+
 ### Thanks for using this program
