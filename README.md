@@ -1,6 +1,6 @@
 # Score
 
-[![CodeFactor](https://www.codefactor.io/repository/github/mdk1384/score/badge)](https://www.codefactor.io/repository/github/mdk1384/score)
+[![CodeFactor](https://www.codefactor.io/repository/github/mdk84/score/badge)](https://www.codefactor.io/repository/github/mdk84/score)
 
 ## Special thanks to
 
